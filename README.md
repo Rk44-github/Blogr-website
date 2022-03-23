@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Rk44-github/Blogr-website.git
-- Live Site URL: 
+- Live Site URL: https://rk44-github.github.io/Blogr-website/
 
 ## My process
 
